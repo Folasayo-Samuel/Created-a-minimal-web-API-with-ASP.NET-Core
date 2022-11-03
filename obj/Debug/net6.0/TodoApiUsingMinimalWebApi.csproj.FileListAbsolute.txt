@@ -25,3 +25,10 @@
 /home/saint/Desktop/TodoApiUsingMinimalWebApi/obj/Debug/net6.0/TodoApiUsingMinimalWebApi.pdb
 /home/saint/Desktop/TodoApiUsingMinimalWebApi/obj/Debug/net6.0/TodoApiUsingMinimalWebApi.genruntimeconfig.cache
 /home/saint/Desktop/TodoApiUsingMinimalWebApi/obj/Debug/net6.0/ref/TodoApiUsingMinimalWebApi.dll
+/home/saint/Desktop/TodoApiUsingMinimalWebApi/bin/Debug/net6.0/Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+/home/saint/Desktop/TodoApiUsingMinimalWebApi/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.dll
+/home/saint/Desktop/TodoApiUsingMinimalWebApi/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/home/saint/Desktop/TodoApiUsingMinimalWebApi/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.InMemory.dll
+/home/saint/Desktop/TodoApiUsingMinimalWebApi/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Relational.dll
+/home/saint/Desktop/TodoApiUsingMinimalWebApi/bin/Debug/net6.0/Microsoft.Extensions.Caching.Memory.dll
+/home/saint/Desktop/TodoApiUsingMinimalWebApi/bin/Debug/net6.0/Microsoft.Extensions.DependencyInjection.dll
